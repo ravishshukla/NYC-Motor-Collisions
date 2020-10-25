@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run NYC_Vehicle_Collision_WebApp.py
+web: sh setup.sh && streamlit run app.py
