@@ -11,9 +11,9 @@ URL: https://nyc-motor-collisions.herokuapp.com/
 
 
 
-![STREAMLIT NYC2](https://user-images.githubusercontent.com/60705782/97156581-2451a200-1734-11eb-8264-ce5f87b2ff1a.png)
+![STREAMLIT NYC](https://user-images.githubusercontent.com/60705782/97156979-b2c62380-1734-11eb-92d0-3c0ace6e5409.png)
 
 
 
 
-![STREAMLIT NYC2](https://user-images.githubusercontent.com/60705782/97156725-55ca6d80-1734-11eb-9cd7-42c1069acd08.png)
+![STREAMLIT NYC2](https://user-images.githubusercontent.com/60705782/97157023-c5d8f380-1734-11eb-905c-6507854e89ee.png)
