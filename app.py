@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATA_URL = (
-"https://github.com/ravishshukla/NYC-Motor-Collisions/blob/master/Motor_Vehicle_Collisions_-_Crashes.csv?raw=true/Motor_Vehicle_Collisions_-_Crashes.csv"
+"https://blob-ap-south-1-ukyez4.s3.ap-south-1.amazonaws.com/sara/0b/0b4b/0b4bc542-7c43-45db-9658-6dfcd003e0c8.bin?response-content-disposition=attachment%3B%20filename%3D%22Motor_Vehicle_Collisions_-_Crashes.csv%22&response-content-type=application%2Fvnd.ms-excel&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI75SICYCOZ7DPWTA%2F20201031%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20201031T094850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=d49e9564ce32505f82385b7a42b5bbca8f2c52830609e7e1b8a13350c5e370f7"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
