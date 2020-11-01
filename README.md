@@ -2,7 +2,7 @@
 This interactive Web Application was made by Streamlit and NYC Motor vehicles collisions data published by the NYC Police Department.
 The Following Model is hosted on Heroku.
 
-URL: https://nyc-motor-collisions.herokuapp.com/
+URL: https://nyc-motor-collisions.herokuapp.com/  (Comming Soon, Stay Tuned!!!)
 
 
 
